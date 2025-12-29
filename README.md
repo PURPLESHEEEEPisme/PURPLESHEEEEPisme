@@ -1,2 +1,2 @@
-<font color="#e3c0ff">
-Hello. <br>
+<div align="center">
+${\textsf{\color{#8e4594}hi}}$ 
